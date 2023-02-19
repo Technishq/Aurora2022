@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 318px;
+  left: 710px;
+  width: 263px;
+  height: 281px;
+}
+.aurora {
+  position: absolute;
+  top: 20px;
+  left: 36px;
+  font-weight: 600;
+  font-family: var(--font-manrope);
+  text-align: center;
+}
+.hands-on-workshops {
+  position: absolute;
+  top: 145px;
+  left: 74px;
+  font-size: 48px;
+  color: var(--color-white);
+}
+.desktop-1-item {
+  position: absolute;
+  top: 22px;
+  left: 17px;
+  border-radius: 43px;
+  background-color: #ee6461;
+  width: 1406px;
+  height: 979px;
+}
+.exciting-events {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.inspiring-speakers {
+  margin: 0;
+}
+.aurora1,
+.hands-on-workshops-exciting-container {
+  position: absolute;
+  top: 171px;
+  left: 74px;
+  font-size: 58px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 804px;
+  height: 276px;
+}
+.aurora1 {
+  top: 36px;
+  left: 62px;
+  font-size: 54px;
+  font-weight: 500;
+  width: 299px;
+  height: 59px;
+}
+.desktop-1-inner {
+  cursor: pointer;
+  border: 2px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 43px;
+  left: 1150px;
+  border-radius: 875px;
+  box-sizing: border-box;
+  width: 207px;
+  height: 44px;
+}
+.group-icon {
+  position: absolute;
+  top: 0;
+  left: 333px;
+  width: 773px;
+  height: 74px;
+  object-fit: cover;
+}
+.register-now {
+  position: absolute;
+  top: 53px;
+  left: 1177px;
+  font-size: 18px;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+  font-family: var(--font-manrope);
+}
+.iste,
+.manipal {
+  position: absolute;
+  top: 849px;
+  letter-spacing: 0.05em;
+}
+.iste {
+  left: 1057px;
+  font-size: 225px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.manipal {
+  left: 1107px;
+  font-size: 43px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 232px;
+  height: 81px;
+}
+.page1-1-icon,
+.techweek-logo-without-text-3-1 {
+  position: absolute;
+  top: 459px;
+  left: 67px;
+  width: 937px;
+  height: 471px;
+  object-fit: cover;
+}
+.techweek-logo-without-text-3-1 {
+  top: 356px;
+  left: 730px;
+  width: 225px;
+  height: 205px;
+}
+.frame-div {
+  position: absolute;
+  top: 951px;
+  left: 582px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.rectangle-div {
+  position: absolute;
+  top: 1066px;
+  left: 36px;
+  background-color: #d9d9d9;
+  width: 1359px;
+  height: 849px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 2993px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 50px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
